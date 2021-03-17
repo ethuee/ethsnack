@@ -8,7 +8,8 @@ import time
 import re
 import threading
 import subprocess
-import ConfigParser
+#import ConfigParser
+import configparser
 import copy
 from deploy_tasks import *
 from snack import *

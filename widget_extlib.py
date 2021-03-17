@@ -1,7 +1,8 @@
 import time
-from snack import ButtonBar, TextboxReflowed, GridFormHelp, GridForm, \
-    Textbox, CheckboxTree, Listbox, Grid, Entry, Label, types, Scale, \
-    SingleRadioButton
+#from snack import ButtonBar, TextboxReflowed, GridFormHelp, GridForm, \
+    #Textbox, CheckboxTree, Listbox, Grid, Entry, Label, types, Scale, \
+    #SingleRadioButton
+from snack import *
 
 
 def ExtButtonChoiceWindow(screen, title, text,
