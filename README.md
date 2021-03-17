@@ -12,13 +12,13 @@ This project is a deploy console based on python snack. In this project, you wil
 ### Code clone 
 
 ```
-git@github.com:tony-yin/Best-practice-of-python-snack.git
+git@github.com:ethuee/ethsnack.git
 ```
 
 ### Enter directory
 
 ```
-cd Best-practice-of-python-snack
+cd ethsnack
 ```
 
 ### Run python script
@@ -27,9 +27,3 @@ cd Best-practice-of-python-snack
 ./deploy_console
 ```
 
-## More detail
-
-Just see [Best Practice of python snack][2]
-
-[1]: http://cdn.tony-yin.site/deploy_console.gif
-[2]: http://www.tony-yin.site/2018/06/03/Python-Snack-Best-Practice/
